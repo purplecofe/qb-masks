@@ -1,6 +1,6 @@
 Config = {}
 
-Config["qb-target"] = false
+Config["qb-target"] = true
 
 Config["Masks"] = {
     ["mask"] = {
